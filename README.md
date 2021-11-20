@@ -4,7 +4,7 @@ This is a completely functional gui calculator, running on a browser, powered by
 - You need python pre installed in your system.
 
 # Instructions:
-- Download this repositry in your system.
+- Download this zip file and extract it in your system.
 - Navigate to the inside of calculator folder in your cmd prompt or powershell. 
 - Type 'venv/scripts/activate' in your powershell or cmd prompt.
 - After you activating venv, type "python app.py" in your powershell or cmd prompt.
